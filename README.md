@@ -9,4 +9,4 @@
 | 17:00 - 18:00 | เขียน Test Scenario บน Miro   |ศึกษา RobotFramework  |เขียน RobotFramework ระดับ อนุบาล  |เขียน RobotFramework ระดับ ประถม|            -          |
 
 ## ลิงค์ Miro
-[Miro Board](https://miro.com/app/board/uXjVKcyxM6s=/)
+Miro : [https://miro.com/app/board/uXjVKcyxM6s=/](https://miro.com/app/board/uXjVKcyxM6s=/)
