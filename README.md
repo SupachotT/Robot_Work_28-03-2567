@@ -11,7 +11,7 @@
 ## ลิงค์ Miro
 Miro : [https://miro.com/app/board/uXjVKcyxM6s=/](https://miro.com/app/board/uXjVKcyxM6s=/)
 
-## สิ่งท่ีต้องส่งมอบ
+## สิ่งที่ต้องส่งมอบ
 1. MiroBoard
 2. RobotFramework File ระดับอนุบาล
 3. RobotFramework File ระดับประถม
